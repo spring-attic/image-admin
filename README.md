@@ -1,3 +1,5 @@
+# image-admin is no longer actively maintained by VMware, Inc.
+
 # Spring XD Admin
 This Docker image runs a Spring XD Admin server in [distributed mode](http://docs.spring.io/spring-xd/docs/1.0.0.BUILD-SNAPSHOT/reference/html/#running-distributed-mode). It expects
 to connect to a ZooKeeper ensemble, an HSQLDB server and a Redis instance using
